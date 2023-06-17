@@ -29,7 +29,7 @@ $ source bin/activate
 
 Run Django Server
 ```
-(djangoreact) $ python manage.py runserver
+(django-render) $ python manage.py runserver
 ```
 
 Django server Running on : [localhost:8000](http://localhost:8000).
